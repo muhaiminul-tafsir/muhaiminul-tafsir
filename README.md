@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Muhaiminul+Islam+Tafsir;Web+Developer;Full-Stack+Developer" alt="Typing SVG" />
+  <h1>Hi, I'm Muhaiminul Islam Tafsir</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=435&height=50&lines=Web+Developer;Full-Stack+Developer" alt="Typing SVG" align="right" />
 </div>
 
 ## 👨‍💻 About Me
