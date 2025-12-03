@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Muhaiminul Islam Tafsir</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=435&height=50&lines=Softeare-Engineer;& Machine Learning" alt="Typing SVG" align="" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=435&height=50&lines=Softeare-Engineer; Machine Learning" alt="Typing SVG" align="" />
 </div>
 
 ## 👨‍💻 About Me
