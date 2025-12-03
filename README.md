@@ -4,8 +4,8 @@
 </div>
 
 ## 👨‍💻 About Me
-- 🔭 I'm currently working as a Web Developer
-- 🌱 I'm passionate about creating responsive and user-friendly web applications
+- 🔭 I'm currently working as Software Engineering & Machine Learning
+- 🌱 I'm passionate about creating responsive and user-friendly Software
 - 💬 Ask me about Web Development, Frontend & Backend Technologies
 - 📫 How to reach me: [Your Email Address]
 
